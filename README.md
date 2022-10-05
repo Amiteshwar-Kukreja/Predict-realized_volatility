@@ -6,6 +6,10 @@ In financial markets, volatility captures the amount of fluctuation in prices. H
 
 The goal is to devise an algorithm to accurately predict the short-term (next 10-minute) realized volatility in the weighted average price(wap) of each stock. Training data includes the book and trade data for each stock for the prior 10-minutes i.e. the 10 minute time window before the time window for which the prediction is to be made. The loss function used for model evaluation is the **RMSPE** (*Root Mean Squared Percentage Error*).
 
+## Key outcomes of my project
+1. A fast and efficient 3-layer neural network model with an RMSPE score on test set of **0.215365**.
+2. The model ranked in the **Top 30** amongst more than 3500 entries for the competition. 
+
 ## Table of Contents
 
 1. Notebooks:
