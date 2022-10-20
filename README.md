@@ -12,7 +12,12 @@ The goal is to devise an algorithm to accurately predict the short-term (next 10
 
 ## Table of Contents
 
-1. Notebooks:
+1. Documentation:
+* [Presentation](amit_kukreja_realized_volatility_prediction_presentation.pdf)
+* [Project Report]
+* [Metrics & Parameters](realized_volatility_model_metrics_amit_kukreja.pdf)
+
+2. Notebooks:
 * [Data Wrangling](Notebooks/01_data_wrangling_realized_volatility_final.ipynb)
 * [Exploratory Data Analysis](Notebooks/02_eda_realized_volatility_final.ipynb)
-* [Pre-Processing & Modelling](Notebooks/03_Preprocessing_and_modeling_realized_volatility_ver2.2.ipynb)
+* [Pre-Processing & Modelling](Notebooks/03_Preprocessing_realized_volatility_ver3.0.ipynb)
