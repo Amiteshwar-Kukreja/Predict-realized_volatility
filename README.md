@@ -13,7 +13,7 @@ The goal is to devise an algorithm to accurately predict the short-term (next 10
 ## Table of Contents
 
 1. Documentation:
-* [Presentation](amit_kukreja_realized_volatility_prediction_presentation.pdf)
+* [Presentation](amit_kukreja_realized_volatility_prediction_presentation_final.pdf)
 * [Project Report]
 * [Metrics & Parameters](realized_volatility_model_metrics_amit_kukreja.pdf)
 
