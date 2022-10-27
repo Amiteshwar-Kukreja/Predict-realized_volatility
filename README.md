@@ -6,9 +6,13 @@ In financial markets, volatility captures the amount of fluctuation in prices. H
 
 The goal is to devise an algorithm to accurately predict the short-term (next 10-minute) realized volatility in the weighted average price(wap) of each stock. Training data includes the book and trade data for each stock for the prior 10-minutes i.e. the 10 minute time window before the time window for which the prediction is to be made. The loss function used for model evaluation is the **RMSPE** (*Root Mean Squared Percentage Error*).
 
-## Key outcomes of my project
-1. A fast and efficient 3-layer neural network model with an RMSPE score on test set of **0.215365**.
-2. The model ranked in the **Top 30** amongst more than 3500 entries for the competition. 
+## Key highlights of my project
+1. Python Tools: scipy.stats, sklearn, statsmodels, keras, lightgbm, seaborn
+2. A fast and efficient 3-layer neural network model with an RMSPE score on test set of **0.215365** and compute time of **0.018** seconds.
+3. The model ranked in the **Top 30** amongst more than 3500 entries for the competition.
+4. Performed extensive EDA using time series analysis, kmeans clustering, correlation heatmaps and principal component analysis to uncover insights for feature engineering and model building
+5. Engineered 170+ features based on technical stock analysis, motion dynamics and insights drawn from EDA
+6. Devised the deep learning model with dense & embedding layers, tuned hyperparameters and leveraged callbacks to improve model performance  
 
 ## Table of Contents
 
