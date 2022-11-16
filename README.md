@@ -18,7 +18,7 @@ The **goal** is to devise an algorithm to accurately predict the short-term (nex
 
 1. Documentation:
 * [Presentation](amit_kukreja_realized_volatility_prediction_presentation_final.pdf)
-* [Project Report]
+* [Project Report](realized_volatility_prediction_report_amit_kukreja.pdf)
 * [Metrics & Parameters](realized_volatility_model_metrics_amit_kukreja.pdf)
 
 2. Notebooks:
